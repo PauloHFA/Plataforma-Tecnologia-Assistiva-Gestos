@@ -17,6 +17,10 @@ flowchart LR
 
 ---
 
+> **Nota de Planejamento:** Para o detalhamento completo de pendências, backlog de melhorias futuras (guia sonoro, backup criptografado E2EE e telemetria terapêutica) e dependências, consulte o arquivo [PENDENCIAS.md](PENDENCIAS.md).
+
+---
+
 ## 📋 Matriz de Requisitos vs. Status de Implementação
 
 | ID | Módulo | Descrição do Requisito | Status | Onde está implementado | Teste Automatizado |
