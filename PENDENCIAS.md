@@ -1,6 +1,6 @@
-# 📋 Pendências e Próximos Passos — GestoLivre
+# 📋 Pendências e Próximos Passos — Plataforma de Tecnologia Assistiva por Gestos (`GestoLivre`)
 
-> Documento de rastreabilidade do backlog, melhorias sugeridas e itens pendentes para evoluções futuras do **GestoLivre**.
+> Documento de rastreabilidade do backlog, melhorias sugeridas e itens pendentes para evoluções futuras da **Plataforma de Tecnologia Assistiva por Gestos (`GestoLivre`)**.
 
 ---
 

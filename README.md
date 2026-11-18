@@ -1,6 +1,6 @@
-# GestoLivre 🪟✋
+# Plataforma de Tecnologia Assistiva por Gestos (`GestoLivre`) 🪟✋
 
-[![CI Workflow](https://github.com/PauloHFA/GestoLivre/actions/workflows/ci.yml/badge.svg)](https://github.com/PauloHFA/GestoLivre/actions/workflows/ci.yml)
+[![CI Workflow](https://github.com/PauloHFA/Plataforma-Tecnologia-Assistiva-Gestos/actions/workflows/ci.yml/badge.svg)](https://github.com/PauloHFA/Plataforma-Tecnologia-Assistiva-Gestos/actions/workflows/ci.yml)
 [![WCAG 2.2 AA](https://img.shields.io/badge/Acessibilidade-WCAG%202.2%20AA-emerald)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 [![SDD Verified](https://img.shields.io/badge/SDD-25%20Specs%20Auditadas-sky)](./spec/README.md)
 [![Tests](https://img.shields.io/badge/Testes-46%20Passando%20(100%25)-green)](./PROGRESS.md)
